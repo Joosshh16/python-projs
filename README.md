@@ -10,6 +10,8 @@ Please see the appropriate guide for your environment of choice:
 - For a visual understanding of each project, refer to the images included in the project directory. They will guide you on how to run and operate the application.
 - Take advantage of this opportunity to customize the code and learn more about its underlying mechanisms.
 
+### Project list
+- [Body Mass Index] (./BMI/)
 ---
 ### Happy Coding !!!
 ---
