@@ -11,7 +11,7 @@ Please see the appropriate guide for your environment of choice:
 - Take advantage of this opportunity to customize the code and learn more about its underlying mechanisms.
 
 ### Project list
-- [Body Mass Index](./python-projs/BMI)
+- [Body Mass Index](./BMI)
 ---
 ### Happy Coding !!!
 ---
