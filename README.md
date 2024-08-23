@@ -12,6 +12,16 @@ Please see the appropriate guide for your environment of choice:
 
 ### Project list
 - [Body Mass Index](./BMI)
+- [Classroom Schedule Data](./Classroom Schedule Data)
+- [Distance Translation](./Distance Translation)
+- [File Editor](./File Editor)
+- [Find Resto](./Find Resto)
+- [Food Inventory System](./Food Inventory System)
+- [Liquid Translation](./Liquid Translation)
+- [Logic Gates](./Logic Gates)
+- [Resort Reservation](./Resort Reservation)
+- [Student Data](./Student Data)
+- [kWh to Php Converter](./kWh to Php Converter)
 ---
 ### Happy Coding !!!
 ---
