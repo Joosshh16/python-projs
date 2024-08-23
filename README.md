@@ -10,9 +10,6 @@ Please see the appropriate guide for your environment of choice:
 - For a visual understanding of each project, refer to the images included in the project directory. They will guide you on how to run and operate the application.
 - Take advantage of this opportunity to customize the code and learn more about its underlying mechanisms.
 
-### Project list
-Project list
-
 ## Project list
 
 - [Body Mass Index](./BMI)
@@ -27,7 +24,6 @@ Project list
 - [Student Data](./Student%20Data)
 - [kWh to Php Converter](./kWh%20to%20Php%20Converter)
 
-  
 ---
 ### Happy Coding !!!
 ---
