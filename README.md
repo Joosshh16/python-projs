@@ -11,4 +11,6 @@ Please see the appropriate guide for your environment of choice:
 - You have the freedom to modify this code in your environment for you to check how
 - Take advantage of this opportunity to customize the code and learn more about its underlying mechanisms.
 
+---
 ### Happy Coding
+---
