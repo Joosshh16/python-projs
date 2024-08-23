@@ -13,17 +13,20 @@ Please see the appropriate guide for your environment of choice:
 ### Project list
 Project list
 
-* [Body Mass Index](./BMI)
-* [Classroom Schedule Data](./Classroom Schedule Data)
-* [Distance Translation](./Distance Translation)
-* [File Editor](./File Editor)
-* [Find Resto](./Find Resto)
-* [Food Inventory System](./Food Inventory System)
-* [Liquid Translation](./Liquid Translation)
-* [Logic Gates](./Logic Gates)
-* [Resort Reservation](./Resort Reservation)
-* [Student Data](./Student Data)
-* [kWh to Php Converter](./kWh to Php Converter)
+## Project list
+
+- [Body Mass Index](./BMI)
+- [Classroom Schedule Data](./Classroom%20Schedule%20Data)
+- [Distance Translation](./Distance%20Translation)
+- [File Editor](./File%20Editor)
+- [Find Resto](./Find%20Resto)
+- [Food Inventory System](./Food%20Inventory%20System)
+- [Liquid Translation](./Liquid%20Translation)
+- [Logic Gates](./Logic%20Gates)
+- [Resort Reservation](./Resort%20Reservation)
+- [Student Data](./Student%20Data)
+- [kWh to Php Converter](./kWh%20to%20Php%20Converter)
+
   
 ---
 ### Happy Coding !!!
